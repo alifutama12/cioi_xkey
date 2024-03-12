@@ -1,0 +1,20 @@
+{
+  "name": "cioi_xkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alifutama12/cioi_xkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "drwq_xid": "^1.0.0",
+    "uojc_xid": "^1.0.0"
+  }
+}
